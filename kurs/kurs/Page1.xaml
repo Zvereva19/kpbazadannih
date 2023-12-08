@@ -1,0 +1,47 @@
+﻿<Page x:Class="kurs.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:kurs"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page1">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush  ImageSource="/Resources/ss.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Название" Grid.Row="0" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Автор" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Жанр" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Год" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Наличие книги в библиотеке(True или False)" Grid.Row="4" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Стоимость" Grid.Row="5" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Колл-во книг в библиотеке" Grid.Row="6" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBlock Text="Колл-во страниц" Grid.Row="7" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="DemiBold"/>
+        <TextBox Text="{Binding name}"  VerticalAlignment="Center" FontSize="20" MaxLength="100" Grid.Column="1" Grid.Row="0" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding author}" VerticalAlignment="Center" FontSize="20" MaxLength="20" Grid.Column="1" Grid.Row="1" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding genre}" VerticalAlignment="Center" FontSize="20" MaxLength="15" Grid.Column="1" Grid.Row="2" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding year}" VerticalAlignment="Center" PreviewTextInput="TextBox_PreviewTextInput" FontSize="20" Grid.Column="1" Grid.Row="3" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding Availability}" VerticalAlignment="Center" PreviewTextInput="TextBox_PreviewTextInput" FontSize="20" Grid.Column="1" Grid.Row="4" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding Cost}" PreviewTextInput="TextBox_PreviewTextInput" VerticalAlignment="Center" FontSize="20" Grid.Column="1" Grid.Row="5" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding Quantity}" VerticalAlignment="Center" FontSize="20" Grid.Column="1" Grid.Row="6" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <TextBox Text="{Binding Pages}" VerticalAlignment="Center" FontSize="20" Grid.Column="1" Grid.Row="7" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White"/>
+        <Button Name="BtnSaveAndExit" Click="BtnSaveAndExit_Click" Grid.ColumnSpan="2" Grid.Row="8" Width="300" Content="Сохранить" Background="Black" BorderBrush="White" BorderThickness="2" Foreground="White" />
+    </Grid>
+</Page>

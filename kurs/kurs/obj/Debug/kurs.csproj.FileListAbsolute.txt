@@ -1,0 +1,276 @@
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\Shapito\Desktop\govno\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Nastya\Desktop\govno\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Nastya\Desktop\ZVEREVA_BIBL\kurs\kurs\obj\Debug\kurs.csproj.ResolveComReference.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.ResolveComReference.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Nastya\Desktop\курс\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.ResolveComReference.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Nastya\Desktop\3 курс\курс\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.csproj.ResolveComReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\zvere\OneDrive\Рабочий стол\курс\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.csproj.ResolveComReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\AdminWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\BooksForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\BooksNotForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\DataPeoples.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\Page1.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\Page2.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\UserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\AdminWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\BooksForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\BooksNotForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\DataPeoples.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\DataPeoplesNotForEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\Page1.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\Page2.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\UserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\курс\kurs\kurs\obj\Debug\kurs.pdb

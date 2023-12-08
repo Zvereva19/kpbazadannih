@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище BiblitekaModelContainer" CdmEntityContainer="BiblitekaEntities5">
+    <EntitySetMapping Name="AuthPeople">
+      <EntityTypeMapping TypeName="BiblitekaModel.AuthPeople">
+        <MappingFragment StoreEntitySet="AuthPeople">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Book">
+      <EntityTypeMapping TypeName="BiblitekaModel.Book">
+        <MappingFragment StoreEntitySet="Book">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="author" ColumnName="author" />
+          <ScalarProperty Name="genre" ColumnName="genre" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Availability" ColumnName="Availability" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Pages" ColumnName="Pages" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Peoples">
+      <EntityTypeMapping TypeName="BiblitekaModel.Peoples">
+        <MappingFragment StoreEntitySet="Peoples">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="book_name" ColumnName="book_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+          <ScalarProperty Name="genre" ColumnName="genre" />
+          <ScalarProperty Name="Pages" ColumnName="Pages" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="date_issue" ColumnName="date_issue" />
+          <ScalarProperty Name="date_admission" ColumnName="date_admission" />
+          <ScalarProperty Name="book_availability" ColumnName="book_availability" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

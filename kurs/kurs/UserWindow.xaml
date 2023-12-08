@@ -1,0 +1,45 @@
+﻿<Window x:Class="kurs.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kurs"
+        mc:Ignorable="d"
+        Title="Библиотека" Height="450" Width="800" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+
+
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF5A5381"/>
+                <GradientStop Color="#FF1C150D" Offset="1"/>
+                <GradientStop Color="#FF4F5368" Offset="0.212"/>
+                <GradientStop Color="#FF342358" Offset="0.995"/>
+                <GradientStop Color="#FF414141" Offset="0.66"/>
+                <GradientStop Color="#FF423856" Offset="0.901"/>
+                <GradientStop Color="#FF454751" Offset="0.468"/>
+
+
+            </LinearGradientBrush>
+
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Name="Books" Click="Books_Click"  Content="Все книги" Grid.Row="0" Grid.Column="0" Margin="0 0 10 0" Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <Button Name="AllData" Click="AllData_Click" Content="Дата выдачи и сбора книг" Grid.Row="1" Margin="0 0 10 0" Grid.Column="0"  Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <Button Name="Exit" Content="Выйти из аккаунта" Click="Exit_Click" Grid.Row="3" Grid.Column="0" Margin="0 0 10 0" Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        </Grid>
+        <Frame x:Name="MainFrame1" Background="Black" Opacity="0.8" BorderBrush="Black" BorderThickness="2.5" NavigationUIVisibility="Hidden" Grid.Column="1"/>
+    </Grid>
+</Window>

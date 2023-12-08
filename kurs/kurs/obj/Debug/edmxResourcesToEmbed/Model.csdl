@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BiblitekaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="author" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="genre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="year" Type="Int32" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="Availability" Type="Boolean" />
+    <Property Name="Cost" Type="Int32" />
+    <Property Name="Pages" Type="Int32" />
+  </EntityType>
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="book_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="genre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pages" Type="Int32" />
+    <Property Name="Cost" Type="Int32" />
+    <Property Name="date_issue" Type="DateTime" Precision="0" />
+    <Property Name="date_admission" Type="DateTime" Precision="0" />
+    <Property Name="book_availability" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Role" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="BiblitekaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Peoples" EntityType="Self.People" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище BiblitekaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AuthPeople">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="surname" Type="nvarchar" MaxLength="50" />
+    <Property Name="patronymic" Type="nvarchar" MaxLength="50" />
+    <Property Name="login" Type="varchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+    <Property Name="Role" Type="bit" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="author" Type="nvarchar" MaxLength="50" />
+    <Property Name="genre" Type="nvarchar" MaxLength="50" />
+    <Property Name="year" Type="int" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Availability" Type="bit" />
+    <Property Name="Cost" Type="int" />
+    <Property Name="Pages" Type="int" />
+  </EntityType>
+  <EntityType Name="Peoples">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="book_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="surname" Type="nvarchar" MaxLength="50" />
+    <Property Name="patronymic" Type="nvarchar" MaxLength="50" />
+    <Property Name="genre" Type="nvarchar" MaxLength="50" />
+    <Property Name="Pages" Type="int" />
+    <Property Name="Cost" Type="int" />
+    <Property Name="date_issue" Type="date" />
+    <Property Name="date_admission" Type="date" />
+    <Property Name="book_availability" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="Хранилище BiblitekaModelContainer">
+    <EntitySet Name="AuthPeople" EntityType="Self.AuthPeople" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Peoples" EntityType="Self.Peoples" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

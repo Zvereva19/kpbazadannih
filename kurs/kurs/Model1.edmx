@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище BiblitekaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AuthPeople">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="surname" Type="nvarchar" MaxLength="50" />
+          <Property Name="patronymic" Type="nvarchar" MaxLength="50" />
+          <Property Name="login" Type="varchar" MaxLength="50" />
+          <Property Name="password" Type="varchar" MaxLength="50" />
+          <Property Name="Role" Type="bit" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="author" Type="nvarchar" MaxLength="50" />
+          <Property Name="genre" Type="nvarchar" MaxLength="50" />
+          <Property Name="year" Type="int" />
+          <Property Name="Quantity" Type="int" />
+          <Property Name="Availability" Type="bit" />
+          <Property Name="Cost" Type="int" />
+          <Property Name="Pages" Type="int" />
+        </EntityType>
+        <EntityType Name="Peoples">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="book_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="surname" Type="nvarchar" MaxLength="50" />
+          <Property Name="patronymic" Type="nvarchar" MaxLength="50" />
+          <Property Name="genre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Pages" Type="int" />
+          <Property Name="Cost" Type="int" />
+          <Property Name="date_issue" Type="date" />
+          <Property Name="date_admission" Type="date" />
+          <Property Name="book_availability" Type="bit" />
+        </EntityType>
+        <EntityContainer Name="Хранилище BiblitekaModelContainer">
+          <EntitySet Name="AuthPeople" EntityType="Self.AuthPeople" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Peoples" EntityType="Self.Peoples" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BiblitekaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AuthPeople">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Role" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="author" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="genre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="year" Type="Int32" />
+          <Property Name="Quantity" Type="Int32" />
+          <Property Name="Availability" Type="Boolean" />
+          <Property Name="Cost" Type="Int32" />
+          <Property Name="Pages" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Peoples">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="book_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="genre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Pages" Type="Int32" />
+          <Property Name="Cost" Type="Int32" />
+          <Property Name="date_issue" Type="DateTime" Precision="0" />
+          <Property Name="date_admission" Type="DateTime" Precision="0" />
+          <Property Name="book_availability" Type="Boolean" />
+        </EntityType>
+        <EntityContainer Name="BiblitekaEntities5" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AuthPeople" EntityType="Self.AuthPeople" />
+          <EntitySet Name="Book" EntityType="Self.Book" />
+          <EntitySet Name="Peoples" EntityType="Self.Peoples" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище BiblitekaModelContainer" CdmEntityContainer="BiblitekaEntities5">
+          <EntitySetMapping Name="AuthPeople">
+            <EntityTypeMapping TypeName="BiblitekaModel.AuthPeople">
+              <MappingFragment StoreEntitySet="AuthPeople">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="surname" ColumnName="surname" />
+                <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+                <ScalarProperty Name="login" ColumnName="login" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="Role" ColumnName="Role" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Book">
+            <EntityTypeMapping TypeName="BiblitekaModel.Book">
+              <MappingFragment StoreEntitySet="Book">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="author" ColumnName="author" />
+                <ScalarProperty Name="genre" ColumnName="genre" />
+                <ScalarProperty Name="year" ColumnName="year" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="Availability" ColumnName="Availability" />
+                <ScalarProperty Name="Cost" ColumnName="Cost" />
+                <ScalarProperty Name="Pages" ColumnName="Pages" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Peoples">
+            <EntityTypeMapping TypeName="BiblitekaModel.Peoples">
+              <MappingFragment StoreEntitySet="Peoples">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="book_name" ColumnName="book_name" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="surname" ColumnName="surname" />
+                <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+                <ScalarProperty Name="genre" ColumnName="genre" />
+                <ScalarProperty Name="Pages" ColumnName="Pages" />
+                <ScalarProperty Name="Cost" ColumnName="Cost" />
+                <ScalarProperty Name="date_issue" ColumnName="date_issue" />
+                <ScalarProperty Name="date_admission" ColumnName="date_admission" />
+                <ScalarProperty Name="book_availability" ColumnName="book_availability" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
